@@ -1,0 +1,24 @@
+{
+  "name": "generator-acti",
+  "version": "1.0.0",
+  "description": "a generator for activity pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fwon/generator-acti.git"
+  },
+  "homepage": "https://github.com/fwon/generator-acti",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "fwon",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^1.1.0",
+    "chalk": "^1.1.1",
+    "yosay": "^1.0.5"
+  }
+}

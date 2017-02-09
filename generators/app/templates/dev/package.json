@@ -1,0 +1,21 @@
+{
+  "name": "activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fis-conf.js",
+  "dependencies": {
+    
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fwon",
+  "license": "ISC",
+  "devDependencies": {
+    "fis-parser-less": "^0.1.3",
+    "fis-postprocessor-px2rem": "^1.0.3",
+    "fis3-hook-relative": "^1.0.5",
+    "fis3-postpackager-loader": "^1.3.13",
+    "fis3-lint-eslint": "fwon/fis3-lint-eslint"
+  }
+}

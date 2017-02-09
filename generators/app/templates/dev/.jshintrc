@@ -1,0 +1,21 @@
+{
+  "curly": true,
+  "eqeqeq": true,
+  "immed": true,
+  "noarg": true,
+  "noempty": true,
+  "undef": true,
+  "unused": true,
+  "node": true,
+  "globals": {
+    "_": true,
+    "$": true,
+    "__uri": true,
+    "__inline": true,
+    "fis": true,
+    "__NAPI_SOURCE__": true,
+    "createUnitStore": true,
+    "StateTypes": true,
+    "__RESOURCE_MAP__": true
+  }
+}
