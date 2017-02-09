@@ -1,5 +1,5 @@
 {
-  "name": "generator-acti",
+  "name": "generator-activity-page",
   "version": "1.0.0",
   "description": "a generator for activity pages",
   "main": "index.js",
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fwon/generator-acti.git"
+    "url": "https://github.com/fwon/generator-activity-page.git"
   },
-  "homepage": "https://github.com/fwon/generator-acti",
+  "homepage": "https://github.com/fwon/generator-activity-page",
   "keywords": [
     "yeoman-generator"
   ],
