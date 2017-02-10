@@ -1,8 +1,8 @@
 {
   "name": "generator-activity-page",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "a generator for activity pages",
-  "main": "index.js",
+  "main": "generators/app/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,13 +11,16 @@
     "url": "https://github.com/fwon/generator-activity-page.git"
   },
   "homepage": "https://github.com/fwon/generator-activity-page",
+  "files": [
+    "generators/app"
+  ],
   "keywords": [
     "yeoman-generator"
   ],
   "author": "fwon",
   "license": "ISC",
   "dependencies": {
-    "yeoman-generator": "^1.1.0",
+    "yeoman-generator": "^0.24.1",
     "chalk": "^1.1.1",
     "yosay": "^1.0.5"
   }
